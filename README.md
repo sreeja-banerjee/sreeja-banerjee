@@ -1,9 +1,69 @@
-<!-- Replace every YOUR-USERNAME / YOUR-LINKEDIN / YOUR-EMAIL placeholder before publishing --> <div align="center"> <img src="./assets/hello-terminal.svg" alt="Retro terminal: Hello, I'm Sreeja" width="466" />
+<div align="center">
 
-🎓 NUS: BSoc. Sci. (Hons. Distinction) Economics, Minor in Statistics · Singapore<br> 🎓 Bocconi: MSc Economics & Social Sciences · Milan
+<img src="./assets/hello-terminal.svg" alt="Retro terminal: Hello, I'm Sreeja" width="466" />
 
 </div>
 
+---
+
+## ★ `whoami`
+
+```python
+class Sreeja:
+    def __init__(self):
+        self.trained_in       = ["Economics", "Statistics", "Econometrics"]
+        self.schools          = {"NUS": "BSoc. Sci. (Hons. Distinction) Economics",
+                                 "Bocconi": "MSc Econ & Social Sciences"}
+        self.guilty_pleasures = ["behavioral economics", "macroeconomics", "competition economics",
+                                 "70s rock", "fantasy books", "cocktails by the beach"]
+        self.currently        = "writing a thesis on how carbon footprint fluctuates with the weather"
+```
+
+---
+
+## ‧₊˚✩ ₊˚💻⊹♡ Projects
+
+| | Project | What it does | Stack |
+|---|---|---|---|
+| 🌡️ | **Carbon-Time Thesis** | Replicates & extends *Druckman et al. (2012)*: maps how Americans spend their day (ATUS) to carbon footprints, then asks what happens when the weather fluctuates | Python · PostgreSQL |
+| 🇭🇷 | **Forecasting Croatian GDP** | Built a Croatian macro dataset from IMF and ECB data, then pitted an OLS growth model against AR(2) and VAR(2) benchmarks in expanding-window forecasts, scored with RMSE, MAE and Diebold-Mariano tests | R · LaTeX |
+| 🔍 | **Predicting Crime in Boston** | One question, five models: best subset selection, ridge, lasso, PCR and PLS, each tuned with cross-validation and compared on prediction error | R · glmnet · pls |
+| 🚢 | **Tariffs & Income** | Did the US-China trade war leave a mark on incomes in the most tariff-exposed US states? An exploratory before/after comparison across 6 states and 12 quarters  | R |
+
+---
+
+## 🧰 Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/EViews-5C2D91?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+## 🧪 Methods I Use
+
+**Econometrics:** OLS & robust inference · panel data (fixed & random effects) · IV / 2SLS · logit, probit, Poisson & Tobit · maximum likelihood
+
+**Causal inference:** RCTs & A/B tests · difference-in-differences · regression discontinuity · matching & propensity scores · event studies
+
+**Time series & forecasting:** AR / ARMA / ARIMA · ARDL · VAR · unit-root & stability tests · volatility · forecast evaluation (RMSE, Diebold-Mariano)
+
+**Statistical learning:** cross-validation · ridge & lasso · PCA, PCR & PLS · logistic regression, LDA / QDA & KNN · k-means & hierarchical clustering
+
+**Text & choice data:** sentiment analysis & topic modelling · discrete choice (multinomial logit)
+
+---
 
 ## 📈 Estimation Output
 
@@ -29,58 +89,11 @@ Note: Standard errors clustered at the level of "just one person."
 
 ---
 
-## ★ `whoami`
-
-```python
-class Sreeja:
-    def __init__(self):
-        self.trained_in   = ["Economics", "Statistics", "Econometrics"]
-        self.schools      = {"NUS": "BSc (Hons) Economics", "Bocconi": "MSc Econ & Social Sciences"}
-        self.guilty_pleasures = ["behavioral economics", "macroeconomics" "competition economics",
-                              "70s rock", "fantasy books", "cocktails by the beach"]
-        self.currently    = "writing a thesis on how carbon footprint fluctuates with the weather"
-
-```
-
----
-
-## ‧₊˚✩ ₊˚💻⊹♡ Projects
-
-| | Project | What it does | Stack |
-|---|---|---|---|
-| 🌡️ | **Carbon-Time Thesis** | Replicates & extends *Druckman et al. (2012)*: maps how Americans spend their day (ATUS) to carbon footprints, then asks what happens when the weather goes weird | Python · PostgreSQL |
-| 🇭🇷 | **Forecasting Croatian GDP** | Pitting AR and VAR models against each other to forecast GDP  | R · LaTeX |
-| 📉 | **Volatility Forecasting** | Modelling volatility — currently being upgraded to run on real market data | Python |
-
-
----
-
-## 🧰 Toolkit
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/EViews-5C2D91?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
-
-**Methods I use:** time series (AR/VAR, volatility) · event studies · RCTs & A/B tests · sentiment analysis & topic modelling · quasi-experimental designs
-
----
-
-
-<p>
-  <a href="https://www.linkedin.com/in/sreeja-banerjee-a427581a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sreejab77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 <div align="center">
 
+<a href="https://www.linkedin.com/in/sreeja-banerjee-a427581a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sreejab77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<sub>H₀: Working with me is a blast. Fail to reject. </sub>
+<sub>H₀: Working with me is a blast. Fail to reject.</sub>
 
 </div>
