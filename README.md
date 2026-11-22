@@ -1,5 +1,9 @@
 <!-- Replace every YOUR-USERNAME / YOUR-LINKEDIN / YOUR-EMAIL placeholder before publishing --> <div align="center"> <img src="./assets/hello-terminal.svg" alt="Retro terminal: Hello, I'm Sreeja" width="466" />
----
+
+🎓 NUS: BSoc. Sci. (Hons. Distinction) Economics, Minor in Statistics · Singapore<br> 🎓 Bocconi: MSc Economics & Social Sciences · Milan
+
+</div>
+
 
 ## 📈 Estimation Output
 
@@ -37,8 +41,6 @@ class Sreeja:
         self.superpower   = "econometric intuition + willingness to clean very messy data"
         self.currently    = "writing a thesis on how weather shocks reshape our day — and our carbon footprint"
 
-    def utility(self, problem):
-        return problem.messiness * problem.real_world_relevance  # higher is better 🙂
 ```
 
 ---
@@ -72,21 +74,6 @@ class Sreeja:
 
 ---
 
-## My Production Function ❤︎
-
-```mermaid
-flowchart LR
-    A[☕ Coffee] --> D{Sreeja}
-    B[🗃️ Messy data] --> D
-    C[❓ A good question] --> D
-    D --> E[📈 Clean analysis]
-    D --> F[🧠 Actual insight]
-    D --> G[ A chart with a pun in the title]
-```
-
-*Returns to scale: increasing, conditional on coffee input.*
-
----
 
 <p>
   <a href="https://www.linkedin.com/in/sreeja-banerjee-a427581a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -96,6 +83,6 @@ flowchart LR
 <div align="center">
 
 
-<sub>H₀: Working with me is a blast. Fail to reject. ✨</sub>
+<sub>H₀: Working with me is a blast. Fail to reject. </sub>
 
 </div>
