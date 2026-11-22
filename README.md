@@ -14,8 +14,8 @@ class Sreeja:
         self.trained_in       = ["Economics", "Statistics", "Econometrics"]
         self.schools          = {"NUS": "BSoc. Sci. (Hons. Distinction) Economics",
                                  "Bocconi": "MSc Econ & Social Sciences"}
-        self.guilty_pleasures = ["behavioral economics", "macroeconomics", "competition economics",
-                                 "70s rock", "fantasy books", "cocktails by the beach"]
+        self.guilty_pleasures = ["behavioral economics", "macroeconomics", "competition economics", 
+                                 "financial economics", "70s rock", "fantasy books", "cocktails by the beach"]
         self.currently        = "writing a thesis on how carbon footprint fluctuates with the weather"
 ```
 
