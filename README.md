@@ -36,10 +36,9 @@ class Sreeja:
     def __init__(self):
         self.trained_in   = ["Economics", "Statistics", "Econometrics"]
         self.schools      = {"NUS": "BSc (Hons) Economics", "Bocconi": "MSc Econ & Social Sciences"}
-        self.obsessed_with = ["behavioural economics", "climate & carbon data",
-                              "why people do what they do (and how to measure it)"]
-        self.superpower   = "econometric intuition + willingness to clean very messy data"
-        self.currently    = "writing a thesis on how weather shocks reshape our day — and our carbon footprint"
+        self.guilty_pleasures = ["behavioral economics", "macroeconomics" "competition economics",
+                              "70s rock", "fantasy books", "cocktails by the beach"]
+        self.currently    = "writing a thesis on how carbon footprint fluctuates with the weather"
 
 ```
 
@@ -53,7 +52,6 @@ class Sreeja:
 | 🇭🇷 | **Forecasting Croatian GDP** | Pitting AR and VAR models against each other to forecast GDP  | R · LaTeX |
 | 📉 | **Volatility Forecasting** | Modelling volatility — currently being upgraded to run on real market data | Python |
 
-> 🔗 Swap the project names above for links to the repos once they're public.
 
 ---
 
@@ -70,7 +68,7 @@ class Sreeja:
   <img src="https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-**Methods I reach for:** time series (AR/VAR, volatility) · event studies · RCTs & A/B tests · sentiment analysis & topic modelling · quasi-experimental designs
+**Methods I use:** time series (AR/VAR, volatility) · event studies · RCTs & A/B tests · sentiment analysis & topic modelling · quasi-experimental designs
 
 ---
 
