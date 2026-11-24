@@ -19,7 +19,7 @@ class Sreeja:
         self.currently        = "writing a thesis on how carbon footprint fluctuates with the weather"
         self.coding_playlist  = ["Oasis", "Crystal Castles", "The Smashing Pumpkins"]
         # the genre jumping is a feature, not a bug :P
-        self.lived_in  = ["Singapore", "Milan", "Vienna", "Bologna"]
+        self.lived_in         = ["Singapore", "Milan", "Vienna", "Bologna"]
 
 ```
 
