@@ -18,7 +18,8 @@ class Sreeja:
                                  "financial economics", "70s rock", "fantasy books", "cocktails by the beach"]
         self.currently        = "writing a thesis on how carbon footprint fluctuates with the weather"
         self.coding_playlist  = ["Oasis", "Crystal Castles", "The Smashing Pumpkins"]
-        # the genre whiplash is a feature, not a bug :P
+        # the genre jumping is a feature, not a bug :P
+        self.lived_in  = ["Singapore", "Milan", "Vienna", "Bologna"]
 
 ```
 
