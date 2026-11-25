@@ -29,7 +29,7 @@ class Sreeja:
 
 | | Project | What it does | Stack |
 |---|---|---|---|
-| 🌡️ | **Carbon-Time Thesis** | Replicates & extends *Druckman et al. (2012)*: maps how Americans spend their day (ATUS) to carbon footprints, then asks what happens when the weather fluctuates | Python · Jupyter Notebook |
+| 🌡️ | **[Carbon Footprint-Weather Thesis](https://github.com/sreeja-banerjee/msc-thesis)** | Replicates & extends *Druckman et al. (2012)*: maps how Americans spend their day (ATUS) to carbon footprints, analyzes how it fluctuates with weather/temperature anomalies and forecasts what footprints would like under different global warming scenarios. | Python · Jupyter Notebook |
 | 📈 | **[Forecasting Singapore's GDP](https://github.com/sreeja-banerjee/singapore-gdp-forecast)** | Replicated my Econometrics time-series analysis and forecasting project for a small, open, import-reliant economy which uses exchange-rate management as a monetary policy. Incorporating foreign demand helps model performance in global downturns, and dropping GDP growth trend explains why simple models over-forecast | R · Power BI |
 | 🔍 | **Predicting Crime in Boston** | One question, five models: best subset selection, ridge, lasso, PCR and PLS, each tuned with cross-validation and compared on prediction error | R · glmnet · pls |
 | 🚢 | **Tariffs & Income** | Did the US-China trade war leave a mark on incomes in the most tariff-exposed US states? An exploratory before/after comparison across 6 states and 12 quarters  | R |
